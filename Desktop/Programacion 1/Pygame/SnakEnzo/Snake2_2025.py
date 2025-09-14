@@ -181,7 +181,7 @@ def modo_normal():
 def modo_imposible():
     global modo, fps
     modo = "IMPOSIBLE"
-    fps = 90
+    fps = 50
     jugar()
 
 def reiniciar():
@@ -227,11 +227,11 @@ while True:
                     op_seleccionada_fin = (op_seleccionada_fin - 1) % num_opciones_fin
                     sonido_nav.play() # Reproduce el sonido de navegacion
                 elif evento.key == pygame.K_RETURN:
-                    if op_seleccionada_fin == 0:  #rEINICIAR
-                        sonido_nav.play() # Reproduce el sonido de navegacion
-                        estado = ESTADO_MENU
+                    sonido_nav.play() # Reproduce el sonido de navegacion
+                    if op_seleccionada_fin == 0:  
+                        jugar()  # reinicia el juego
                     elif op_seleccionada_fin == 1:  #vOLVER AL MENU PRINCIPAL
-                        estado = ESTADO_INICIO
+                        estado = ESTADO_MENU
 
     #Segun estado
     if estado == ESTADO_INICIO:
