@@ -1,0 +1,74 @@
+[
+  {
+    "nombre": "PPP",
+    "puntaje": 19101,
+    "peleas_ganadas": 3,
+    "golpes_totales": 162,
+    "dano_causado": 615,
+    "dano_recibido": 83,
+    "tiempo_segundos": 128
+  },
+  {
+    "nombre": "KKQ",
+    "puntaje": 18888,
+    "peleas_ganadas": 3,
+    "golpes_totales": 147,
+    "dano_causado": 618,
+    "dano_recibido": 87,
+    "tiempo_segundos": 112
+  },
+  {
+    "nombre": "DJL",
+    "puntaje": 18329,
+    "peleas_ganadas": 3,
+    "golpes_totales": 104,
+    "dano_causado": 625,
+    "dano_recibido": 77,
+    "tiempo_segundos": 107
+  },
+  {
+    "nombre": "QUI",
+    "puntaje": 17964,
+    "peleas_ganadas": 3,
+    "golpes_totales": 111,
+    "dano_causado": 594,
+    "dano_recibido": 151,
+    "tiempo_segundos": 105
+  },
+  {
+    "nombre": "ENZ",
+    "puntaje": 17918,
+    "peleas_ganadas": 3,
+    "golpes_totales": 94,
+    "dano_causado": 619,
+    "dano_recibido": 148,
+    "tiempo_segundos": 97
+  },
+  {
+    "nombre": "ENZ",
+    "puntaje": 17879,
+    "peleas_ganadas": 3,
+    "golpes_totales": 73,
+    "dano_causado": 598,
+    "dano_recibido": 0,
+    "tiempo_segundos": 95
+  },
+  {
+    "nombre": "ENZ",
+    "puntaje": 17515,
+    "peleas_ganadas": 3,
+    "golpes_totales": 65,
+    "dano_causado": 605,
+    "dano_recibido": 100,
+    "tiempo_segundos": 87
+  },
+  {
+    "nombre": "JKJ",
+    "puntaje": 1000,
+    "peleas_ganadas": 0,
+    "golpes_totales": 0,
+    "dano_causado": 0,
+    "dano_recibido": 0,
+    "tiempo_segundos": 0
+  }
+]

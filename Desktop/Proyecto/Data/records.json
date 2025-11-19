@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "WWW",
+    "puntaje": 3925,
+    "rounds_ganados": 2,
+    "rounds_perdidos": 0,
+    "golpes_totales": 41,
+    "dano_causado": 209,
+    "dano_recibido": 15,
+    "tiempo_segundos": 28
+  },
+  {
+    "nombre": "ENZ",
+    "puntaje": 3925,
+    "rounds_ganados": 2,
+    "rounds_perdidos": 0,
+    "golpes_totales": 45,
+    "dano_causado": 205,
+    "dano_recibido": 25,
+    "tiempo_segundos": 44
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "nombre": "DDD",
+    "puntaje": 3775,
+    "rounds_ganados": 2,
+    "rounds_perdidos": 0,
+    "golpes_totales": 25,
+    "dano_causado": 205,
+    "dano_recibido": 0,
+    "tiempo_segundos": 27
+  },
+  {
+    "nombre": "JJJ",
+    "puntaje": 3730,
+    "rounds_ganados": 2,
+    "rounds_perdidos": 0,
+    "golpes_totales": 24,
+    "dano_causado": 198,
+    "dano_recibido": 0,
+    "tiempo_segundos": 34
+  },
+  {
+    "nombre": "ENZ",
+    "puntaje": 3685,
+    "rounds_ganados": 2,
+    "rounds_perdidos": 0,
+    "golpes_totales": 23,
+    "dano_causado": 191,
+    "dano_recibido": 0,
+    "tiempo_segundos": 23
+  },
+  {
+    "nombre": "WWW",
+    "puntaje": 3680,
+    "rounds_ganados": 2,
+    "rounds_perdidos": 0,
+    "golpes_totales": 25,
+    "dano_causado": 186,
+    "dano_recibido": 0,
+    "tiempo_segundos": 40
+  },
+  {
+    "nombre": "QQQ",
+    "puntaje": 3675,
+    "rounds_ganados": 2,
+    "rounds_perdidos": 0,
+    "golpes_totales": 24,
+    "dano_causado": 187,
+    "dano_recibido": 0,
+    "tiempo_segundos": 39
+  }
+]
